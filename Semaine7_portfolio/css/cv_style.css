@@ -1,0 +1,38 @@
+
+/*a {
+    text-decoration: none;
+    color: #68b7a8;}
+*/
+h1 {
+    font-size: 24px;
+    color:darkslategray;
+    font-family:Avenir sans-serif;
+}
+h2 {
+    color:darkslategray;
+    font-size: 20px;
+    font-family: Avenir sans-serif;
+}
+
+h3 {
+
+    color:darkslategray;
+    font-family:Georgia Didot sans-serif;
+    font-size:18px;
+}
+li {
+    list-style-type:none;
+}
+header {
+    margin-top:70px;
+}
+.navbar-fixed-bottom {
+    color:white;
+}
+.navbar-fixed-top {
+ 
+/*    background-color:white;
+*/}
+.navbar-fixed-top li  a {
+    color:blue;
+}

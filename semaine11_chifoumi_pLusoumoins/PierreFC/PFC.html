@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link href="style.css" rel="stylesheet">
+    <title>Pierre Feuille Ciseaux</title>
+</head>
+<body>
+<div class="title">
+    <span>Pierre</span>
+    <span>Feuille</span>
+    <span>Ciseaux</span>
+</div>
+
+<div class="container">
+    <div class="left">
+        <h2>Joueur</h2>
+        <p>Clique sur ton choix</p>
+        <div id="player">
+            <button value="0" class="stone" name="pierre"></button>
+            <button value="1" class="leaf" name="feuille"></button>
+            <button value="2" class="scissors" name="ciseaux"></button>
+        </div>
+    </div>
+
+    <div class="left" id="middle">
+        <h3 id="pscore"></h3>
+        <p id="player_choice" class="result"></p>
+        <p id="vs">
+            <img src="img/vs.png" alt="vs">
+        </p>
+        <p id="computer_choice" class="result"></p>
+        <p class="result" id="result"></p>
+    </div>
+
+    <div class="left">
+        <h2>ordinateur</h2>
+        <p> ... alors l'ordinateur choisira</p>
+        <div id="computer">
+            <button value="3" class="stone" name="pierre"></button>
+            <button value="4" class="leaf" name="feuille"></button>
+            <button value="5" class="scissors" name="ciseaux"></button>
+        </div>
+    </div>
+
+    <script src="PFCScript.js"></script>
+</div>
+</body>
+</html>
