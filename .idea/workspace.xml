@@ -2,157 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d8b5c9-5f0c-409f-9977-b88d8a2c827a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/SiteOnePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/cv_portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/cv_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome-4.5.0/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/cv.S7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/cv_porfolioo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/cv_portfolio_interactif.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/Loeildelexpat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/bg_waves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/bootstrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/chifoumi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/html_css.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/js.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/profil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/img/tictactoe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/addheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/jquery.mixitup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/jquery.mixitup2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/js/scrollmovement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/modele html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine7_portfolio/modele_css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Annuaire/annuaire.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Annuaire/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Annuaire/logo_x_pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Annuaire/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Tableau/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Semaine9_annuaire/Tableau/javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/img/clickshaun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/img/robot_shaun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/img/twinspetit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine10_cookieclicker/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/PFC.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/PFCScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/468px-Ciseaux.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/leaf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/scissors.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/vs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/img/zen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/PierreFC/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/Plus ou Moins/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/Plus ou Moins/myscript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine11_chifoumi_pLusoumoins/Plus ou Moins/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine12_tictactoe_completion/tictactoe/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine12_tictactoe_completion/tictactoe/myscript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine12_tictactoe_completion/tictactoe/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/cv_portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome-4.5.0/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/cv_porfolioo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/Loeildelexpat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/bg_waves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/bootstrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/chifoumi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/circle_s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/greyzz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/html_css.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/js.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/profil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/profil0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/profil1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/tictactoe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/img/white_wall_hash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/addheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/jquery.mixitup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/jquery.mixitup2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/js/scrollmovement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/semaine8_cv_contact/post_contact.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="_simplon.iws" />
@@ -172,8 +22,39 @@
   <component name="FavoritesManager">
     <favorites_list name="_simplon" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12_semaine12_tictactoe_completion/tictactoe/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30379745">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -243,6 +124,32 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -265,7 +172,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="480" y="23" width="1816" height="1337" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25253665" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -275,7 +182,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32895815" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32895815" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32895815" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -301,5 +208,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/12_semaine12_tictactoe_completion/tictactoe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30379745">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
