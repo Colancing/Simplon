@@ -38,6 +38,7 @@ h1, h2, p {
 #quizz-container h3{
     color: #142845;
     border-bottom: 1px solid #e5e5e5;
+    line-height: 40px;
 }
 .box {
     padding:15px;
