@@ -7,11 +7,15 @@ body {
 h1 {
     font-family: 'satisfy', cursive;
     font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    line-height: 50px;
 }
 
 header{
     color: #142845;
 }
+
 h2, p {
     font-family: 'Pathway Gothic One', 'sans-serif';
     font-size: 110%;
@@ -22,6 +26,13 @@ h1, h2, p {
     display: block;
     width: auto;
     margin: 1%;
+}
+
+h2 {
+    margin-bottom: 80px;
+    font-style: italic;
+    color: rgba(20, 40, 69, 0.64);
+
 }
 #quizz-container{
     width:75%;
