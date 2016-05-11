@@ -1,29 +1,42 @@
 <!DOCTYPE html>
-<html lang="fr" ng-app="myApp">
+<html lang="fr" ng-app="quizzApp">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Quizz Angular</title>
-    <link href="css/style.css" rel="stylesheet"/>
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/style.css" rel="stylesheet"/>
 </head>
-<body ng-controller="mainController">
-<h1>Quizz Angular</h1>
-<form>
-        <div ng-repeat="question in questions">
-            <h1>{{question.label}}</h1>
-            <div ng-repeat="response in question.responses">
-                <!--<li></li>-->
-            <input type="radio" name=choice"  ng-value="{{response.categorie}}"
-                   ng-model="result" required>
-                {{response.label}}
-            </div>
 
-        </div>
-</form>
+
+<body>
+<div class="container">
+    <h1>Quizz Angular</h1>
+    <div ng-controller="mainController">
+        <form>
+            <div class="well" ng-repeat="question in questions">
+                <h1>{{question.label}}</h1>
+                <ul>
+                    <li ng-repeat="response in question.responses" ng-show="">
+                        <input type="radio" name="choice{{$index}}" ng-value="response"
+                               ng-model="answer" ng-change="givePoints(answer)" required>
+                        {{response.label}}
+                    </li>
+                </ul>
+            </div>
+            <div class="result" ng-repeat="answer in answers">
+                <p>resultat categorie pour la question {{$index}} = {{answer.categorie}}</p>
+                <p>Nombre de points : {{answer.point}}</p>
+            </div>
+        </form>)
+    </div>
+</div>
+
 
 <script src="../bower_components/jquery/dist/jquery.min.js"></script>
 <script src="../bower_components/angular/angular.min.js"></script>
+<script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
 <script src="app.js"></script>
 <script src="js/services/questionsFactory.js"></script>
 </body>
