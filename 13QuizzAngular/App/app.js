@@ -5,7 +5,7 @@
 
 var quizzApp = angular.module("quizzApp", []);
 
-quizzApp.controller("mainController", function ($scope, Questions) {
+quizzApp.controller("questionController", function ($scope, Questions) {
         $scope.hideChoices=false;
         $scope.questions = Questions;
         $scope.answers=[];

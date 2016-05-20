@@ -11,16 +11,44 @@
 
 <body>
 <div class="container">
-    <h1>Quizz Angular</h1>
-    <div ng-controller="mainController">
+    <h1>Quiz: Quel geek êtes-vous ?</h1>
+    <p>Vous pourriez être surpris...</p>
+    <div ng-controller="questionController">
+        <div class="row">
+            <div class="col-md-8">
+                <h2>Progress : </h2>
+                <div class="btn-toolbar">
+                    <button class="btn"
+                            ng-repeat="question in questions"
+                            ng-class="{'btn-info': question.selected != null, 'btn-danger' : question.selected ===null}">
+                        <span class="glyphicon"
+                              ng-class="{'glyphicon-pencil':question.selected != null, 'glyphicon-question-sign':question.selected === null}">
+                        </span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <h4>Legend</h4>
+                    <div class="col-sm-6">
+                        <btn class="btn-info"> </btn>
+                        <p>répondu</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <btn class="btn-danger"> </btn>
+                        <p>en attente</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <form>
             <div class="well" ng-repeat="question in questions">
                 <h1>{{question.label}}</h1>
                 <ul>
-                    <li ng-repeat="response in question.responses" ng-show="">
-                        <input type="radio" name="choice{{$index}}" ng-value="response"
+                    <li ng-repeat="possibility in question.possibilities" ng-show="true">
+                        <input type="radio" name="choices{{$index}}" ng-value="possibility"
                                ng-model="answer" ng-change="givePoints(answer)" required>
-                        {{response.label}}
+                        {{possibility.label}}
                     </li>
                 </ul>
             </div>
@@ -28,7 +56,7 @@
                 <p>resultat categorie pour la question {{$index}} = {{answer.categorie}}</p>
                 <p>Nombre de points : {{answer.point}}</p>
             </div>
-        </form>)
+        </form>
     </div>
 </div>
 
