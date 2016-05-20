@@ -6,23 +6,50 @@
 var quizzApp = angular.module("quizzApp", []);
 
 quizzApp.controller("questionController", function ($scope, Questions) {
-        $scope.hideChoices=false;
-        $scope.questions = Questions;
-        $scope.answers=[];
+    $scope.questions = Questions;
+    $scope.activeQuestion = 0;
+    $scope.error = false;
 
-        $scope.givePoints = function (answer) {
-                console.log(answer);
-                $scope.answers.push(answer);
-                //$scope.questions.answer.active=true;
-                console.log("answers",$scope.answers);
-                console.log("questions",$scope.questions);
-                //console.log("active", $scope.questions.answer.active);
+    var numQuestionsAnswered = 0;
 
+
+    $scope.setActiveQuestion = function (index) {
+        if (index != undefined) {
+            $scope.activeQuestion = index;
         }
+        else {
+            var breakOut = false;
+            while (!breakOut) {
+                $scope.activeQuestion = $scope.activeQuestion < $scope.questions.length - 1
+                    ?
+                    ++$scope.activeQuestion : 0;
+                if ($scope.activeQuestion ===0){
+                    $scope.error = true;
+                }
+                if ($scope.questions[$scope.activeQuestion].selected === null) {
+                    breakOut = true;
+                }
+            }
+        }
+    };
 
-        console.log('tableau', $scope.questions);
-        console.log('answers', $scope.answers);
-        console.log('question1', $scope.questions[1]);
+    $scope.nextQuestion = function () {
+        if ($scope.questions[$scope.activeQuestion].selected !== null) {
+            numQuestionsAnswered++;
+            console.log('nombre de questions répondues passe à', numQuestionsAnswered);
+            if (numQuestionsAnswered >= $scope.questions.length) {
+                console.log("quiz fini, place au calcul")
+            }
+            else console.log('la question est selectionnée, on peut calculer la prochaine question');
+        }
+        $scope.setActiveQuestion();
+    };
+
+    $scope.selectedPossibility = function (index) {
+        $scope.questions[$scope.activeQuestion].selected = index;
+
+        //    passer les trois autres sur false, colorer la poss selectionnnée
+    };
 
 
-    })
+});
