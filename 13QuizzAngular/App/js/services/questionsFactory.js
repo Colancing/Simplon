@@ -39,7 +39,7 @@ quizzApp
                     }
                 ],
                 selected: null,
-                result: {point: 0, categorie: ""}
+                result: {point: 2, categorie: "Geek"}
             },
             {
                 id: 12,
@@ -129,7 +129,7 @@ quizzApp
                     },
                     {
                         id: 3,
-                        label: "Un pic rocher",
+                        label: "Un pic rocheux",
                         categorie: "humain",
                         point: 0,
                         selected: "false"
@@ -295,4 +295,14 @@ quizzApp
 
         ];
         return quizObject;
+    })
+
+    .factory('Results', function () {
+        return [
+            {
+                Humain: 0,
+                Geek: 0,
+                Superhéros: 0
+            }
+        ]
     });

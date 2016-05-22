@@ -52,21 +52,33 @@
                 Hop hop hop !!! Vous devez répondre à toutes les questions !
                 <button class="close" ng-click="error=false">&times</button>
             </div>
-            <h3>Question : </h3>
-            <div class="well well-sm">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <h3>{{activeQuestion+1}}. {{questions[activeQuestion].label}}</h3>
-                        <div class="row">
-                            <div class="col-sm-6" ng-repeat="possibility in questions[activeQuestion].possibilities">
-                                <h4 class="possibility"
-                                    ng-class="{'bg-info' : questions[activeQuestion].selected ===$index}"
-                                    ng-click="selectedPossibility($index)">{{possibility.label}}</h4>
+            <div ng-hide="finalise || showResults">
+                <h3>Question : </h3>
+                <div class="well well-sm">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <h3>{{activeQuestion+1}}. {{questions[activeQuestion].label}}</h3>
+                            <div class="row">
+                                <div class="col-sm-6"
+                                     ng-repeat="possibility in questions[activeQuestion].possibilities">
+                                    <h4 class="possibility"
+                                        ng-class="{'bg-info' : questions[activeQuestion].selected ===$index}"
+                                        ng-click="selectedPossibility($index)">{{possibility.label}}</h4>
+                                </div>
                             </div>
+                            <button class="btn btn-warning" ng-click="nextQuestion()">Continuer</button>
                         </div>
-                        <button class="btn btn-warning" ng-click="nextQuestion()">Continuer</button>
                     </div>
                 </div>
+            </div>
+            <div class="well well-sm" ng-show="finalise">
+                <h3>Prêt pour les résultats ?</h3>
+                <button class="btn btn-success" ng-click="giveResults()">Oui</button>
+                <button class="btn btn-danger" ng-click="finalise = false">Non</button>
+            </div>
+            <div ng-show="showResults">
+                <div class="well well-lg">{{textResult}}</div>
+                <button class="btn btn-primary btn-lg pull-right" ng-click="restart()">Recommencer</button>
             </div>
         </div>
     </div>
