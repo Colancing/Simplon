@@ -54,6 +54,8 @@ quizzApp.controller("questionController", function ($scope, Questions, Results) 
                     $scope.setActiveQuestion();
                 }
             }
+            else {
+                $scope.setActiveQuestion();}
         };
 
         $scope.selectedPossibility = function (index) {
