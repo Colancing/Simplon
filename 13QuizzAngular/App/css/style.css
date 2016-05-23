@@ -6,3 +6,10 @@
     cursor:pointer;
     /*background-color: white;*/
  }
+
+ .results {
+     padding-top : 50px;
+ }
+ .textResult {
+     margin-top : 75px;
+ }

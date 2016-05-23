@@ -19,7 +19,7 @@ quizzApp
                     {
                         id: 2,
                         label: "A la montagne, sur un VTT",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     },
@@ -47,7 +47,7 @@ quizzApp
                 possibilities: [
                     {
                         label: "Le rugby qui tâche",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     },
@@ -80,14 +80,14 @@ quizzApp
                     {
                         id: 1,
                         label: "Le requin : agressif et élégant",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     },
                     {
                         id: 2,
                         label: "Le labrador : affectueux et fidèle",
-                        categorie: "humain",
+                        categorie: "Humain",
                         point: 2,
                         selected: "false"
                     },
@@ -101,7 +101,7 @@ quizzApp
                     {
                         id: 4,
                         label: "La chauve-souris : impressionante et puissante",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 2,
                         selected: "false"
                     }
@@ -130,14 +130,14 @@ quizzApp
                     {
                         id: 3,
                         label: "Un pic rocheux",
-                        categorie: "humain",
+                        categorie: "Humain",
                         point: 0,
                         selected: "false"
                     },
                     {
                         id: 4,
                         label: "Un compagnon d'entraînement à l'autodéfense",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     }
@@ -152,7 +152,7 @@ quizzApp
                     {
                         id: 1,
                         label: "Un coupé cabriolet un peu gling gling",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     },
@@ -173,7 +173,7 @@ quizzApp
                     {
                         id: 4,
                         label: "Pas de voiture : un vélo pour garder la forme",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     }
@@ -195,7 +195,7 @@ quizzApp
                     {
                         id: 2,
                         label: "Un ironman avec les pieds liés",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 2,
                         selected: "false"
                     },
@@ -231,7 +231,7 @@ quizzApp
                     {
                         id: 2,
                         label: "Il aurait été plus sympa en mandarin",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 1,
                         selected: "false"
                     },
@@ -274,7 +274,7 @@ quizzApp
                     {
                         id: 3,
                         label: "Un banc  de muscu",
-                        categorie: "Superhéros",
+                        categorie: "Superheros",
                         point: 2,
                         selected: "false"
                     },
@@ -302,7 +302,17 @@ quizzApp
             {
                 Humain: 0,
                 Geek: 0,
-                Superhéros: 0
+                Superheros: 0
+            },
+            {
+                Humain:"Ni Geek, ni Superhéros, vous menez une vie bien normale à l'abris des nuits blanches et des sabres lasers" ,
+                Geek: "Vos doigts sont carrés à force de taper sur un clavier ou un joystick." +
+                "Le fait d'avoir réalisé ce quizz jusqu'au bout est la preuve la plus tangible de votre geekitude.",
+                Superheros: "Demandez vite une cape et un masque pour Noël. Votre but dans la vie est de sauver des personnes sexys en détresse " +
+                "Vous êtes un superhéros !!!",
+                Autre :  "Un peu geek et superhéros à la fois :  Vous êtes le parfait mélange d'imagination et de rationalité"
             }
+
+
         ]
     });
