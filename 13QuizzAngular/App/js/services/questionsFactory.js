@@ -310,7 +310,7 @@ quizzApp
                 "Le fait d'avoir réalisé ce quizz jusqu'au bout est la preuve la plus tangible de votre geekitude.",
                 Superheros: "Demandez vite une cape et un masque pour Noël. Votre but dans la vie est de sauver des personnes sexys en détresse " +
                 "Vous êtes un superhéros !!!",
-                Autre :  "Un peu geek et superhéros à la fois :  Vous êtes le parfait mélange d'imagination et de rationalité"
+                Autre :  "Pas trop geek, pas trop superhéros :  Vous êtes le parfait mélange d'imagination et de rationalité"
             }
 
 
